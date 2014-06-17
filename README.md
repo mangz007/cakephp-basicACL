@@ -21,7 +21,7 @@ Drupal Like Setting Permissions page.
 
 Thanks to
 =======
-CakePHP team
+CakePHP team & 
 Alaxos (Using components found in Alaxos Plugin.)
 
 
