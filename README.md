@@ -14,9 +14,8 @@ I will be adding tutorials on how to use this soon.
 
 Features
 =======
-Ready to use application with role based ACL
-
-Drupal Like Setting Permissions page.
+- Ready to use application with role based ACL
+- Drupal Like Setting Permissions page.
 
 
 
